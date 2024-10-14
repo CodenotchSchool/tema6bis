@@ -10,3 +10,7 @@ let x = 5;
 console.log(x);
 ```
 
+```python
+x = 5
+print(x)
+```
