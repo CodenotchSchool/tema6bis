@@ -10,3 +10,7 @@ let x = 5;
 console.log(x);
 ```
 
+```java
+public int x = 5;
+System.out.println(x);
+```
