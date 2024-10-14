@@ -14,3 +14,8 @@ console.log(x);
 x = 5
 print(x)
 ```
+
+```java
+public int x = 5;
+System.out.println(x);
+```
